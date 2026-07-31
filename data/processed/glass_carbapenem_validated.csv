@@ -1,0 +1,533 @@
+WHORegionName,Year,Iso3,CountryTerritoryArea,Specimen,PathogenName,AntibioticName,InterpretableAST,Resistant,ResistancePercentage,SourceFile
+African Region,2020,LBR,Liberia,Bloodstream,Acinetobacter spp.,Imipenem,19,5,26.315789474,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,MLI,Mali,Bloodstream,Acinetobacter spp.,Imipenem,13,4,30.769230769,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Imipenem,288,192,66.666666667,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Imipenem,4452,3277,73.607367475,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Meropenem,46,31,67.391304348,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,MWI,Malawi,Bloodstream,Acinetobacter spp.,Meropenem,359,277,77.158774373,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Meropenem,288,191,66.319444444,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2020,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Meropenem,4502,3331,73.989338072,1784926461573_Resistance_to_antibiotics_in_2020_African_Region-Bloodstream.csv
+African Region,2021,COD,Democratic Republic of the Congo,Bloodstream,Acinetobacter spp.,Imipenem,10,5,50,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Imipenem,23,16,69.565217391,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Imipenem,257,191,74.319066148,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,MOZ,Mozambique,Bloodstream,Acinetobacter spp.,Imipenem,13,3,23.076923077,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Imipenem,4881,3971,81.356279451,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,TZA,United Republic of Tanzania,Bloodstream,Acinetobacter spp.,Imipenem,12,2,16.666666667,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,ZMB,Zambia,Bloodstream,Acinetobacter spp.,Imipenem,15,4,26.666666667,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Meropenem,50,27,54,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,GHA,Ghana,Bloodstream,Acinetobacter spp.,Meropenem,55,45,81.818181818,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,KEN,Kenya,Bloodstream,Acinetobacter spp.,Meropenem,20,12,60,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Meropenem,256,191,74.609375,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,MOZ,Mozambique,Bloodstream,Acinetobacter spp.,Meropenem,13,3,23.076923077,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Meropenem,4879,3993,81.840541094,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,TZA,United Republic of Tanzania,Bloodstream,Acinetobacter spp.,Meropenem,53,12,22.641509434,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2021,ZMB,Zambia,Bloodstream,Acinetobacter spp.,Meropenem,13,4,30.769230769,1784926461572_Resistance_to_antibiotics_in_2021_African_Region-Bloodstream.csv
+African Region,2022,BEN,Benin,Bloodstream,Acinetobacter spp.,Imipenem,147,44,29.931972789,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,CMR,Cameroon,Bloodstream,Acinetobacter spp.,Imipenem,18,5,27.777777778,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Imipenem,28,18,64.285714286,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Imipenem,211,173,81.990521327,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,MOZ,Mozambique,Bloodstream,Acinetobacter spp.,Imipenem,20,12,60,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,NAM,Namibia,Bloodstream,Acinetobacter spp.,Imipenem,34,13,38.235294118,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Imipenem,5455,3846,70.504124656,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,BEN,Benin,Bloodstream,Acinetobacter spp.,Meropenem,145,47,32.413793103,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,CMR,Cameroon,Bloodstream,Acinetobacter spp.,Meropenem,14,4,28.571428571,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Meropenem,107,59,55.140186916,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,GHA,Ghana,Bloodstream,Acinetobacter spp.,Meropenem,40,9,22.5,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Meropenem,211,174,82.464454976,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,MOZ,Mozambique,Bloodstream,Acinetobacter spp.,Meropenem,20,7,35,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,NAM,Namibia,Bloodstream,Acinetobacter spp.,Meropenem,34,13,38.235294118,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Meropenem,5461,3917,71.726789965,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2022,TZA,United Republic of Tanzania,Bloodstream,Acinetobacter spp.,Meropenem,164,78,47.56097561,Resistance_to_antibiotics_in_2022_African_Region-Bloodstream.csv
+African Region,2023,DZA,Algeria,Bloodstream,Acinetobacter spp.,Imipenem,211,180,85.308056872,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,BEN,Benin,Bloodstream,Acinetobacter spp.,Imipenem,166,52,31.325301205,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,BFA,Burkina Faso,Bloodstream,Acinetobacter spp.,Imipenem,16,10,62.5,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,CMR,Cameroon,Bloodstream,Acinetobacter spp.,Imipenem,20,6,30,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,COD,Democratic Republic of the Congo,Bloodstream,Acinetobacter spp.,Imipenem,21,16,76.19047619,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Imipenem,28,12,42.857142857,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,MLI,Mali,Bloodstream,Acinetobacter spp.,Imipenem,20,7,35,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Imipenem,213,179,84.037558685,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Imipenem,5873,4157,70.781542653,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,TZA,United Republic of Tanzania,Bloodstream,Acinetobacter spp.,Imipenem,31,16,51.612903226,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,ZMB,Zambia,Bloodstream,Acinetobacter spp.,Imipenem,20,4,20,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,DZA,Algeria,Bloodstream,Acinetobacter spp.,Meropenem,33,31,93.939393939,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,BEN,Benin,Bloodstream,Acinetobacter spp.,Meropenem,159,51,32.075471698,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,BFA,Burkina Faso,Bloodstream,Acinetobacter spp.,Meropenem,11,7,63.636363636,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,ETH,Ethiopia,Bloodstream,Acinetobacter spp.,Meropenem,361,165,45.706371191,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,GHA,Ghana,Bloodstream,Acinetobacter spp.,Meropenem,18,9,50,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,KEN,Kenya,Bloodstream,Acinetobacter spp.,Meropenem,72,50,69.444444444,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,MWI,Malawi,Bloodstream,Acinetobacter spp.,Meropenem,53,22,41.509433962,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,MLI,Mali,Bloodstream,Acinetobacter spp.,Meropenem,10,4,40,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,MUS,Mauritius,Bloodstream,Acinetobacter spp.,Meropenem,213,181,84.976525822,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,NGA,Nigeria,Bloodstream,Acinetobacter spp.,Meropenem,24,12,50,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,ZAF,South Africa,Bloodstream,Acinetobacter spp.,Meropenem,5847,4243,72.567128442,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,TZA,United Republic of Tanzania,Bloodstream,Acinetobacter spp.,Meropenem,220,107,48.636363636,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+African Region,2023,ZMB,Zambia,Bloodstream,Acinetobacter spp.,Meropenem,15,9,60,Resistance_to_antibiotics_in_2023_African_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Imipenem,96,88,91.666666667,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,DJI,Djibouti,Bloodstream,Acinetobacter spp.,Imipenem,14,0,0,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,EGY,Egypt,Bloodstream,Acinetobacter spp.,Imipenem,42,29,69.047619048,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Imipenem,231,187,80.952380952,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Imipenem,99,60,60.606060606,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,JOR,Jordan,Bloodstream,Acinetobacter spp.,Imipenem,59,37,62.711864407,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Imipenem,67,59,88.059701493,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,LBN,Lebanon,Bloodstream,Acinetobacter spp.,Imipenem,54,45,83.333333333,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,LBY,Libya,Bloodstream,Acinetobacter spp.,Imipenem,23,16,69.565217391,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,OMN,Oman,Bloodstream,Acinetobacter spp.,Imipenem,31,30,96.774193548,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Imipenem,340,204,60,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,QAT,Qatar,Bloodstream,Acinetobacter spp.,Imipenem,27,4,14.814814815,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Imipenem,476,417,87.605042017,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Imipenem,113,96,84.955752212,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Imipenem,115,58,50.434782609,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,PSE,"occupied Palestinian territory, including east Jerusalem",Bloodstream,Acinetobacter spp.,Imipenem,30,25,83.333333333,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Meropenem,96,88,91.666666667,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,EGY,Egypt,Bloodstream,Acinetobacter spp.,Meropenem,29,27,93.103448276,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Meropenem,292,257,88.01369863,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Meropenem,74,48,64.864864865,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,JOR,Jordan,Bloodstream,Acinetobacter spp.,Meropenem,60,43,71.666666667,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Meropenem,67,59,88.059701493,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,LBN,Lebanon,Bloodstream,Acinetobacter spp.,Meropenem,16,13,81.25,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,LBY,Libya,Bloodstream,Acinetobacter spp.,Meropenem,11,9,81.818181818,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,OMN,Oman,Bloodstream,Acinetobacter spp.,Meropenem,67,55,82.089552239,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Meropenem,280,177,63.214285714,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,QAT,Qatar,Bloodstream,Acinetobacter spp.,Meropenem,29,4,13.793103448,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Meropenem,472,414,87.711864407,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Meropenem,103,93,90.291262136,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Meropenem,124,61,49.193548387,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2020,PSE,"occupied Palestinian territory, including east Jerusalem",Bloodstream,Acinetobacter spp.,Meropenem,56,45,80.357142857,1784926664571_Resistance_to_antibiotics_in_2020_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Imipenem,125,114,91.2,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Imipenem,390,357,91.538461538,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Imipenem,207,122,58.937198068,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,JOR,Jordan,Bloodstream,Acinetobacter spp.,Imipenem,87,55,63.218390805,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Imipenem,59,45,76.271186441,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,LBN,Lebanon,Bloodstream,Acinetobacter spp.,Imipenem,58,50,86.206896552,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,MAR,Morocco,Bloodstream,Acinetobacter spp.,Imipenem,111,85,76.576576577,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,OMN,Oman,Bloodstream,Acinetobacter spp.,Imipenem,91,76,83.516483516,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Imipenem,1697,1123,66.175604007,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,QAT,Qatar,Bloodstream,Acinetobacter spp.,Imipenem,13,0,0,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Imipenem,196,164,83.673469388,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Imipenem,131,118,90.076335878,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Imipenem,201,105,52.23880597,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Meropenem,125,113,90.4,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Meropenem,495,399,80.606060606,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Meropenem,189,102,53.968253968,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,JOR,Jordan,Bloodstream,Acinetobacter spp.,Meropenem,90,56,62.222222222,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Meropenem,63,47,74.603174603,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,OMN,Oman,Bloodstream,Acinetobacter spp.,Meropenem,246,205,83.333333333,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Meropenem,1668,1097,65.767386091,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,QAT,Qatar,Bloodstream,Acinetobacter spp.,Meropenem,13,0,0,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Meropenem,197,165,83.756345178,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Meropenem,119,112,94.117647059,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2021,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Meropenem,218,116,53.211009174,1784926664570_Resistance_to_antibiotics_in_2021_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Imipenem,106,90,84.905660377,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,EGY,Egypt,Bloodstream,Acinetobacter spp.,Imipenem,23,21,91.304347826,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Imipenem,446,405,90.807174888,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Imipenem,410,275,67.073170732,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,JOR,Jordan,Bloodstream,Acinetobacter spp.,Imipenem,310,232,74.838709677,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Imipenem,140,91,65,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,LBN,Lebanon,Bloodstream,Acinetobacter spp.,Imipenem,22,15,68.181818182,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,MAR,Morocco,Bloodstream,Acinetobacter spp.,Imipenem,150,131,87.333333333,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,OMN,Oman,Bloodstream,Acinetobacter spp.,Imipenem,66,49,74.242424242,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Imipenem,3064,1850,60.378590078,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,QAT,Qatar,Bloodstream,Acinetobacter spp.,Imipenem,17,0,0,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Imipenem,212,171,80.660377358,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,SYR,Syrian Arab Republic,Bloodstream,Acinetobacter spp.,Imipenem,24,23,95.833333333,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Imipenem,77,53,68.831168831,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Imipenem,123,25,20.325203252,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,YEM,Yemen,Bloodstream,Acinetobacter spp.,Imipenem,42,29,69.047619048,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Meropenem,106,90,84.905660377,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,EGY,Egypt,Bloodstream,Acinetobacter spp.,Meropenem,21,19,90.476190476,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Meropenem,348,313,89.942528736,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Meropenem,405,260,64.197530864,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,JOR,Jordan,Bloodstream,Acinetobacter spp.,Meropenem,220,166,75.454545455,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Meropenem,148,95,64.189189189,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,LBN,Lebanon,Bloodstream,Acinetobacter spp.,Meropenem,22,15,68.181818182,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,MAR,Morocco,Bloodstream,Acinetobacter spp.,Meropenem,13,11,84.615384615,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,OMN,Oman,Bloodstream,Acinetobacter spp.,Meropenem,127,84,66.141732283,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Meropenem,3241,2003,61.80191299,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,QAT,Qatar,Bloodstream,Acinetobacter spp.,Meropenem,17,0,0,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Meropenem,215,171,79.534883721,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,SYR,Syrian Arab Republic,Bloodstream,Acinetobacter spp.,Meropenem,17,16,94.117647059,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Meropenem,46,28,60.869565217,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Meropenem,149,31,20.805369128,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2022,YEM,Yemen,Bloodstream,Acinetobacter spp.,Meropenem,19,13,68.421052632,1784926664570_Resistance_to_antibiotics_in_2022_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Imipenem,101,77,76.237623762,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,EGY,Egypt,Bloodstream,Acinetobacter spp.,Imipenem,80,56,70,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Imipenem,511,425,83.170254403,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Imipenem,457,358,78.336980306,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,JOR,Jordan,Bloodstream,Acinetobacter spp.,Imipenem,308,231,75,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Imipenem,100,56,56,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,MAR,Morocco,Bloodstream,Acinetobacter spp.,Imipenem,268,243,90.671641791,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,OMN,Oman,Bloodstream,Acinetobacter spp.,Imipenem,128,68,53.125,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Imipenem,2456,1638,66.693811075,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,QAT,Qatar,Bloodstream,Acinetobacter spp.,Imipenem,39,1,2.564102564,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Imipenem,155,120,77.419354839,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Imipenem,158,131,82.911392405,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Imipenem,135,15,11.111111111,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,YEM,Yemen,Bloodstream,Acinetobacter spp.,Imipenem,53,28,52.830188679,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,PSE,"occupied Palestinian territory, including east Jerusalem",Bloodstream,Acinetobacter spp.,Imipenem,76,40,52.631578947,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,BHR,Bahrain,Bloodstream,Acinetobacter spp.,Meropenem,101,78,77.227722772,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,EGY,Egypt,Bloodstream,Acinetobacter spp.,Meropenem,84,58,69.047619048,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,IRN,Iran (Islamic Republic of),Bloodstream,Acinetobacter spp.,Meropenem,475,406,85.473684211,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,IRQ,Iraq,Bloodstream,Acinetobacter spp.,Meropenem,499,363,72.745490982,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,JOR,Jordan,Bloodstream,Acinetobacter spp.,Meropenem,253,183,72.33201581,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,KWT,Kuwait,Bloodstream,Acinetobacter spp.,Meropenem,108,58,53.703703704,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,MAR,Morocco,Bloodstream,Acinetobacter spp.,Meropenem,159,157,98.742138365,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,OMN,Oman,Bloodstream,Acinetobacter spp.,Meropenem,231,129,55.844155844,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,PAK,Pakistan,Bloodstream,Acinetobacter spp.,Meropenem,2482,1708,68.815471394,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,QAT,Qatar,Bloodstream,Acinetobacter spp.,Meropenem,42,1,2.380952381,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,SAU,Saudi Arabia,Bloodstream,Acinetobacter spp.,Meropenem,167,118,70.658682635,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,TUN,Tunisia,Bloodstream,Acinetobacter spp.,Meropenem,155,132,85.161290323,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,ARE,United Arab Emirates,Bloodstream,Acinetobacter spp.,Meropenem,144,15,10.416666667,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,YEM,Yemen,Bloodstream,Acinetobacter spp.,Meropenem,54,37,68.518518519,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+Eastern Mediterranean Region,2023,PSE,"occupied Palestinian territory, including east Jerusalem",Bloodstream,Acinetobacter spp.,Meropenem,120,77,64.166666667,1784926664569_Resistance_to_antibiotics_in_2023_Eastern_Mediterranean_Region-Bloodstream.csv
+European Region,2020,AUT,Austria,Bloodstream,Acinetobacter spp.,Imipenem,35,4,11.428571429,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,BEL,Belgium,Bloodstream,Acinetobacter spp.,Imipenem,46,1,2.173913043,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Imipenem,348,340,97.701149425,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,HRV,Croatia,Bloodstream,Acinetobacter spp.,Imipenem,225,217,96.444444444,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Imipenem,116,94,81.034482759,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,CZE,Czechia,Bloodstream,Acinetobacter spp.,Imipenem,82,27,32.926829268,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,FRA,France,Bloodstream,Acinetobacter spp.,Imipenem,684,21,3.070175439,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,GEO,Georgia,Bloodstream,Acinetobacter spp.,Imipenem,171,115,67.251461988,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,DEU,Germany,Bloodstream,Acinetobacter spp.,Imipenem,544,19,3.492647059,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,GRC,Greece,Bloodstream,Acinetobacter spp.,Imipenem,662,627,94.712990937,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,ITA,Italy,Bloodstream,Acinetobacter spp.,Imipenem,1449,1234,85.162180814,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Imipenem,59,50,84.745762712,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,LVA,Latvia,Bloodstream,Acinetobacter spp.,Imipenem,50,43,86,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Imipenem,134,127,94.776119403,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Imipenem,109,1,0.917431193,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Imipenem,39,37,94.871794872,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,POL,Poland,Bloodstream,Acinetobacter spp.,Imipenem,356,279,78.370786517,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Imipenem,57,53,92.98245614,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Imipenem,203,188,92.610837438,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,SWE,Sweden,Bloodstream,Acinetobacter spp.,Imipenem,190,18,9.473684211,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Imipenem,91,9,9.89010989,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Imipenem,45,35,77.777777778,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Imipenem,123,3,2.43902439,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,AUT,Austria,Bloodstream,Acinetobacter spp.,Meropenem,69,5,7.246376812,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,BEL,Belgium,Bloodstream,Acinetobacter spp.,Meropenem,160,2,1.25,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Meropenem,346,338,97.687861272,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,HRV,Croatia,Bloodstream,Acinetobacter spp.,Meropenem,225,217,96.444444444,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Meropenem,116,94,81.034482759,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,CZE,Czechia,Bloodstream,Acinetobacter spp.,Meropenem,82,24,29.268292683,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,DNK,Denmark,Bloodstream,Acinetobacter spp.,Meropenem,77,6,7.792207792,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,FIN,Finland,Bloodstream,Acinetobacter spp.,Meropenem,39,2,5.128205128,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,FRA,France,Bloodstream,Acinetobacter spp.,Meropenem,489,16,3.27198364,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,GEO,Georgia,Bloodstream,Acinetobacter spp.,Meropenem,172,117,68.023255814,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,DEU,Germany,Bloodstream,Acinetobacter spp.,Meropenem,563,17,3.019538188,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,GRC,Greece,Bloodstream,Acinetobacter spp.,Meropenem,693,652,94.083694084,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,IRL,Ireland,Bloodstream,Acinetobacter spp.,Meropenem,48,0,0,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,ITA,Italy,Bloodstream,Acinetobacter spp.,Meropenem,2537,2045,80.607016161,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Meropenem,59,50,84.745762712,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,LVA,Latvia,Bloodstream,Acinetobacter spp.,Meropenem,36,31,86.111111111,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Meropenem,154,140,90.909090909,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Meropenem,142,1,0.704225352,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Meropenem,39,38,97.435897436,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,NOR,Norway,Bloodstream,Acinetobacter spp.,Meropenem,31,0,0,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,POL,Poland,Bloodstream,Acinetobacter spp.,Meropenem,367,284,77.384196185,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Meropenem,58,51,87.931034483,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Meropenem,253,234,92.490118577,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,SWE,Sweden,Bloodstream,Acinetobacter spp.,Meropenem,250,18,7.2,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Meropenem,83,9,10.843373494,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Meropenem,48,37,77.083333333,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2020,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Meropenem,568,10,1.76056338,Resistance_to_antibiotics_in_2020_European_Region-Bloodstream.csv
+European Region,2021,AUT,Austria,Bloodstream,Acinetobacter spp.,Imipenem,52,6,11.538461538,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,BEL,Belgium,Bloodstream,Acinetobacter spp.,Imipenem,49,2,4.081632653,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Imipenem,689,678,98.403483309,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,HRV,Croatia,Bloodstream,Acinetobacter spp.,Imipenem,407,404,99.262899263,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Imipenem,213,196,92.018779343,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,CZE,Czechia,Bloodstream,Acinetobacter spp.,Imipenem,122,65,53.278688525,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,FRA,France,Bloodstream,Acinetobacter spp.,Imipenem,710,20,2.816901408,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,GEO,Georgia,Bloodstream,Acinetobacter spp.,Imipenem,194,173,89.175257732,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,DEU,Germany,Bloodstream,Acinetobacter spp.,Imipenem,561,23,4.099821747,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,GRC,Greece,Bloodstream,Acinetobacter spp.,Imipenem,1154,1120,97.05372617,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,IRL,Ireland,Bloodstream,Acinetobacter spp.,Imipenem,13,0,0,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,ITA,Italy,Bloodstream,Acinetobacter spp.,Imipenem,1818,1595,87.733773377,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Imipenem,93,79,84.946236559,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,LVA,Latvia,Bloodstream,Acinetobacter spp.,Imipenem,111,88,79.279279279,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Imipenem,294,287,97.619047619,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,MLT,Malta,Bloodstream,Acinetobacter spp.,Imipenem,15,0,0,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Imipenem,136,1,0.735294118,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Imipenem,42,41,97.619047619,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,POL,Poland,Bloodstream,Acinetobacter spp.,Imipenem,791,663,83.81795196,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Imipenem,62,56,90.322580645,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Imipenem,518,452,87.258687259,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,SWE,Sweden,Bloodstream,Acinetobacter spp.,Imipenem,107,1,0.934579439,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Imipenem,97,10,10.309278351,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,TUR,T<U+00FC>rkiye,Bloodstream,Acinetobacter spp.,Imipenem,3099,2907,93.804453049,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Imipenem,114,96,84.210526316,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Imipenem,205,4,1.951219512,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,AUT,Austria,Bloodstream,Acinetobacter spp.,Meropenem,70,7,10,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,BEL,Belgium,Bloodstream,Acinetobacter spp.,Meropenem,166,2,1.204819277,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Meropenem,688,678,98.546511628,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,HRV,Croatia,Bloodstream,Acinetobacter spp.,Meropenem,406,403,99.261083744,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Meropenem,216,196,90.740740741,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,CZE,Czechia,Bloodstream,Acinetobacter spp.,Meropenem,122,64,52.459016393,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,DNK,Denmark,Bloodstream,Acinetobacter spp.,Meropenem,144,6,4.166666667,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,FIN,Finland,Bloodstream,Acinetobacter spp.,Meropenem,52,1,1.923076923,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,FRA,France,Bloodstream,Acinetobacter spp.,Meropenem,536,19,3.544776119,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,GEO,Georgia,Bloodstream,Acinetobacter spp.,Meropenem,210,186,88.571428571,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,DEU,Germany,Bloodstream,Acinetobacter spp.,Meropenem,598,24,4.013377926,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,GRC,Greece,Bloodstream,Acinetobacter spp.,Meropenem,1293,1253,96.90641918,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,IRL,Ireland,Bloodstream,Acinetobacter spp.,Meropenem,66,1,1.515151515,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,ITA,Italy,Bloodstream,Acinetobacter spp.,Meropenem,2623,2287,87.190240183,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Meropenem,93,79,84.946236559,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,LVA,Latvia,Bloodstream,Acinetobacter spp.,Meropenem,47,41,87.234042553,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Meropenem,359,345,96.100278552,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,MLT,Malta,Bloodstream,Acinetobacter spp.,Meropenem,16,0,0,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Meropenem,184,1,0.543478261,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Meropenem,42,41,97.619047619,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,NOR,Norway,Bloodstream,Acinetobacter spp.,Meropenem,42,0,0,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,POL,Poland,Bloodstream,Acinetobacter spp.,Meropenem,814,644,79.115479115,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Meropenem,62,59,95.161290323,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Meropenem,525,407,77.523809524,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,SWE,Sweden,Bloodstream,Acinetobacter spp.,Meropenem,133,1,0.751879699,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Meropenem,82,9,10.975609756,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,TUR,T<U+00FC>rkiye,Bloodstream,Acinetobacter spp.,Meropenem,3149,2915,92.569069546,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Meropenem,138,97,70.289855072,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2021,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Meropenem,857,18,2.100350058,Resistance_to_antibiotics_in_2021_European_Region-Bloodstream.csv
+European Region,2022,AUT,Austria,Bloodstream,Acinetobacter spp.,Imipenem,68,2,2.941176471,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,BEL,Belgium,Bloodstream,Acinetobacter spp.,Imipenem,51,1,1.960784314,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Imipenem,360,356,98.888888889,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,HRV,Croatia,Bloodstream,Acinetobacter spp.,Imipenem,291,287,98.625429553,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Imipenem,202,189,93.564356436,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,CZE,Czechia,Bloodstream,Acinetobacter spp.,Imipenem,85,33,38.823529412,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,FRA,France,Bloodstream,Acinetobacter spp.,Imipenem,850,28,3.294117647,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,GEO,Georgia,Bloodstream,Acinetobacter spp.,Imipenem,89,76,85.393258427,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,DEU,Germany,Bloodstream,Acinetobacter spp.,Imipenem,673,23,3.417533432,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,GRC,Greece,Bloodstream,Acinetobacter spp.,Imipenem,1397,1347,96.420901933,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,IRL,Ireland,Bloodstream,Acinetobacter spp.,Imipenem,16,1,6.25,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,ITA,Italy,Bloodstream,Acinetobacter spp.,Imipenem,2038,1820,89.303238469,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Imipenem,35,33,94.285714286,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,LVA,Latvia,Bloodstream,Acinetobacter spp.,Imipenem,46,32,69.565217391,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Imipenem,117,109,93.162393162,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,LUX,Luxembourg,Bloodstream,Acinetobacter spp.,Imipenem,13,1,7.692307692,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,MLT,Malta,Bloodstream,Acinetobacter spp.,Imipenem,15,2,13.333333333,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Imipenem,138,1,0.724637681,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Imipenem,31,31,100,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,POL,Poland,Bloodstream,Acinetobacter spp.,Imipenem,437,332,75.972540046,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Imipenem,41,37,90.243902439,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Imipenem,499,435,87.174348697,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,SWE,Sweden,Bloodstream,Acinetobacter spp.,Imipenem,114,4,3.50877193,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Imipenem,100,9,9,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,TUR,T<U+00FC>rkiye,Bloodstream,Acinetobacter spp.,Imipenem,2375,2145,90.315789474,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Imipenem,173,155,89.595375723,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Imipenem,224,3,1.339285714,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,AUT,Austria,Bloodstream,Acinetobacter spp.,Meropenem,95,3,3.157894737,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,BEL,Belgium,Bloodstream,Acinetobacter spp.,Meropenem,168,4,2.380952381,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Meropenem,360,355,98.611111111,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,HRV,Croatia,Bloodstream,Acinetobacter spp.,Meropenem,291,287,98.625429553,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Meropenem,201,190,94.527363184,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,CZE,Czechia,Bloodstream,Acinetobacter spp.,Meropenem,85,33,38.823529412,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,DNK,Denmark,Bloodstream,Acinetobacter spp.,Meropenem,96,5,5.208333333,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,FIN,Finland,Bloodstream,Acinetobacter spp.,Meropenem,34,1,2.941176471,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,FRA,France,Bloodstream,Acinetobacter spp.,Meropenem,668,24,3.592814371,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,GEO,Georgia,Bloodstream,Acinetobacter spp.,Meropenem,209,185,88.516746411,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,DEU,Germany,Bloodstream,Acinetobacter spp.,Meropenem,701,24,3.423680456,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,GRC,Greece,Bloodstream,Acinetobacter spp.,Meropenem,1396,1328,95.128939828,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,IRL,Ireland,Bloodstream,Acinetobacter spp.,Meropenem,78,2,2.564102564,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,ITA,Italy,Bloodstream,Acinetobacter spp.,Meropenem,2666,2348,88.072018005,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Meropenem,35,33,94.285714286,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Meropenem,139,123,88.489208633,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,LUX,Luxembourg,Bloodstream,Acinetobacter spp.,Meropenem,13,0,0,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,MLT,Malta,Bloodstream,Acinetobacter spp.,Meropenem,15,2,13.333333333,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Meropenem,194,2,1.030927835,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Meropenem,31,31,100,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,POL,Poland,Bloodstream,Acinetobacter spp.,Meropenem,459,350,76.252723312,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Meropenem,41,38,92.682926829,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Meropenem,526,218,41.44486692,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,SWE,Sweden,Bloodstream,Acinetobacter spp.,Meropenem,149,2,1.342281879,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Meropenem,87,6,6.896551724,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,TUR,T<U+00FC>rkiye,Bloodstream,Acinetobacter spp.,Meropenem,2481,2242,90.366787586,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Meropenem,204,156,76.470588235,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2022,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Meropenem,1033,10,0.968054211,Resistance_to_antibiotics_in_2022_European_Region-Bloodstream.csv
+European Region,2023,AUT,Austria,Bloodstream,Acinetobacter spp.,Imipenem,34,6,17.647058824,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,BEL,Belgium,Bloodstream,Acinetobacter spp.,Imipenem,30,3,10,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Imipenem,217,207,95.391705069,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,HRV,Croatia,Bloodstream,Acinetobacter spp.,Imipenem,97,91,93.81443299,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Imipenem,94,81,86.170212766,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,CZE,Czechia,Bloodstream,Acinetobacter spp.,Imipenem,43,15,34.88372093,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,EST,Estonia,Bloodstream,Acinetobacter spp.,Imipenem,13,3,23.076923077,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,GEO,Georgia,Bloodstream,Acinetobacter spp.,Imipenem,75,65,86.666666667,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,DEU,Germany,Bloodstream,Acinetobacter spp.,Imipenem,335,10,2.985074627,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,GRC,Greece,Bloodstream,Acinetobacter spp.,Imipenem,1388,1333,96.037463977,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,IRL,Ireland,Bloodstream,Acinetobacter spp.,Imipenem,12,0,0,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,ITA,Italy,Bloodstream,Acinetobacter spp.,Imipenem,1368,1095,80.043859649,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Imipenem,29,27,93.103448276,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,LVA,Latvia,Bloodstream,Acinetobacter spp.,Imipenem,55,37,67.272727273,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Imipenem,55,47,85.454545455,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,MLT,Malta,Bloodstream,Acinetobacter spp.,Imipenem,22,1,4.545454545,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Imipenem,69,1,1.449275362,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Imipenem,31,31,100,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,POL,Poland,Bloodstream,Acinetobacter spp.,Imipenem,425,345,81.176470588,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Imipenem,61,52,85.245901639,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Imipenem,1302,1149,88.248847926,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,SWE,Sweden,Bloodstream,Acinetobacter spp.,Imipenem,125,3,2.4,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Imipenem,107,12,11.214953271,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,TUR,T<U+00FC>rkiye,Bloodstream,Acinetobacter spp.,Imipenem,2726,2471,90.645634629,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Imipenem,213,173,81.220657277,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Imipenem,212,9,4.245283019,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,AUT,Austria,Bloodstream,Acinetobacter spp.,Meropenem,61,1,1.639344262,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,BEL,Belgium,Bloodstream,Acinetobacter spp.,Meropenem,162,5,3.086419753,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,BIH,Bosnia and Herzegovina,Bloodstream,Acinetobacter spp.,Meropenem,216,206,95.37037037,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,HRV,Croatia,Bloodstream,Acinetobacter spp.,Meropenem,163,158,96.932515337,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,CYP,Cyprus,Bloodstream,Acinetobacter spp.,Meropenem,37,33,89.189189189,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,CZE,Czechia,Bloodstream,Acinetobacter spp.,Meropenem,46,17,36.956521739,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,DNK,Denmark,Bloodstream,Acinetobacter spp.,Meropenem,89,2,2.247191011,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,FIN,Finland,Bloodstream,Acinetobacter spp.,Meropenem,31,0,0,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,GEO,Georgia,Bloodstream,Acinetobacter spp.,Meropenem,98,84,85.714285714,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,DEU,Germany,Bloodstream,Acinetobacter spp.,Meropenem,475,16,3.368421053,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,GRC,Greece,Bloodstream,Acinetobacter spp.,Meropenem,151,133,88.079470199,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,IRL,Ireland,Bloodstream,Acinetobacter spp.,Meropenem,51,0,0,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,ITA,Italy,Bloodstream,Acinetobacter spp.,Meropenem,1690,1221,72.24852071,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,XKX,Kosovo,Bloodstream,Acinetobacter spp.,Meropenem,29,27,93.103448276,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,LTU,Lithuania,Bloodstream,Acinetobacter spp.,Meropenem,67,66,98.507462687,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,MLT,Malta,Bloodstream,Acinetobacter spp.,Meropenem,23,1,4.347826087,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,NLD,Netherlands (Kingdom of the),Bloodstream,Acinetobacter spp.,Meropenem,139,2,1.438848921,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,MKD,North Macedonia,Bloodstream,Acinetobacter spp.,Meropenem,31,30,96.774193548,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,NOR,Norway,Bloodstream,Acinetobacter spp.,Meropenem,33,0,0,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,POL,Poland,Bloodstream,Acinetobacter spp.,Meropenem,20,10,50,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,MDA,Republic of Moldova,Bloodstream,Acinetobacter spp.,Meropenem,62,53,85.483870968,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,RUS,Russian Federation,Bloodstream,Acinetobacter spp.,Meropenem,1344,676,50.297619048,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,SWE,Sweden,Bloodstream,Acinetobacter spp.,Meropenem,31,0,0,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,CHE,Switzerland,Bloodstream,Acinetobacter spp.,Meropenem,92,10,10.869565217,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,TUR,T<U+00FC>rkiye,Bloodstream,Acinetobacter spp.,Meropenem,2952,2642,89.498644986,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,UKR,Ukraine,Bloodstream,Acinetobacter spp.,Meropenem,261,207,79.310344828,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+European Region,2023,GBR,United Kingdom of Great Britain and Northern Ireland,Bloodstream,Acinetobacter spp.,Meropenem,1034,23,2.224371373,Resistance_to_antibiotics_in_2023_European_Region-Bloodstream.csv
+Region of the Americas,2020,ARG,Argentina,Bloodstream,Acinetobacter spp.,Imipenem,640,528,82.5,Resistance_to_antibiotics_in_2020_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2020,BRA,Brazil,Bloodstream,Acinetobacter spp.,Imipenem,63,48,76.19047619,Resistance_to_antibiotics_in_2020_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2020,PER,Peru,Bloodstream,Acinetobacter spp.,Imipenem,270,238,88.148148148,Resistance_to_antibiotics_in_2020_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2020,ARG,Argentina,Bloodstream,Acinetobacter spp.,Meropenem,637,523,82.103610675,Resistance_to_antibiotics_in_2020_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2020,BRA,Brazil,Bloodstream,Acinetobacter spp.,Meropenem,65,52,80,Resistance_to_antibiotics_in_2020_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2020,PER,Peru,Bloodstream,Acinetobacter spp.,Meropenem,272,241,88.602941176,Resistance_to_antibiotics_in_2020_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,ARG,Argentina,Bloodstream,Acinetobacter spp.,Imipenem,780,626,80.256410256,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,BRA,Brazil,Bloodstream,Acinetobacter spp.,Imipenem,212,68,32.075471698,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,COL,Colombia,Bloodstream,Acinetobacter spp.,Imipenem,1048,448,42.748091603,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,PER,Peru,Bloodstream,Acinetobacter spp.,Imipenem,340,292,85.882352941,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,ARG,Argentina,Bloodstream,Acinetobacter spp.,Meropenem,782,622,79.539641944,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,BRA,Brazil,Bloodstream,Acinetobacter spp.,Meropenem,215,68,31.627906977,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,COL,Colombia,Bloodstream,Acinetobacter spp.,Meropenem,1490,497,33.355704698,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2021,PER,Peru,Bloodstream,Acinetobacter spp.,Meropenem,343,294,85.714285714,Resistance_to_antibiotics_in_2021_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,ARG,Argentina,Bloodstream,Acinetobacter spp.,Imipenem,476,367,77.100840336,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,BRA,Brazil,Bloodstream,Acinetobacter spp.,Imipenem,74,62,83.783783784,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,COL,Colombia,Bloodstream,Acinetobacter spp.,Imipenem,1093,298,27.264409881,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,PER,Peru,Bloodstream,Acinetobacter spp.,Imipenem,111,70,63.063063063,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,ARG,Argentina,Bloodstream,Acinetobacter spp.,Meropenem,474,366,77.215189873,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,BRA,Brazil,Bloodstream,Acinetobacter spp.,Meropenem,111,90,81.081081081,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,COL,Colombia,Bloodstream,Acinetobacter spp.,Meropenem,1538,314,20.416124837,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2022,PER,Peru,Bloodstream,Acinetobacter spp.,Meropenem,111,73,65.765765766,Resistance_to_antibiotics_in_2022_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,ARG,Argentina,Bloodstream,Acinetobacter spp.,Imipenem,560,406,72.5,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,BRA,Brazil,Bloodstream,Acinetobacter spp.,Imipenem,113,73,64.601769912,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,COL,Colombia,Bloodstream,Acinetobacter spp.,Imipenem,1227,282,22.982885086,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,PER,Peru,Bloodstream,Acinetobacter spp.,Imipenem,11,9,81.818181818,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,ARG,Argentina,Bloodstream,Acinetobacter spp.,Meropenem,560,404,72.142857143,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,BRA,Brazil,Bloodstream,Acinetobacter spp.,Meropenem,213,149,69.953051643,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,CAN,Canada,Bloodstream,Acinetobacter spp.,Meropenem,66,2,3.03030303,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,COL,Colombia,Bloodstream,Acinetobacter spp.,Meropenem,1563,279,17.850287908,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+Region of the Americas,2023,PER,Peru,Bloodstream,Acinetobacter spp.,Meropenem,12,9,75,Resistance_to_antibiotics_in_2023_Region_of_the_Americas-Bloodstream.csv
+South-East Asia Region,2020,IND,India,Bloodstream,Acinetobacter spp.,Imipenem,1546,1207,78.072445019,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,IDN,Indonesia,Bloodstream,Acinetobacter spp.,Imipenem,58,40,68.965517241,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,MMR,Myanmar,Bloodstream,Acinetobacter spp.,Imipenem,95,46,48.421052632,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,NPL,Nepal,Bloodstream,Acinetobacter spp.,Imipenem,137,67,48.905109489,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,LKA,Sri Lanka,Bloodstream,Acinetobacter spp.,Imipenem,45,24,53.333333333,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,THA,Thailand,Bloodstream,Acinetobacter spp.,Imipenem,783,425,54.278416347,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,IND,India,Bloodstream,Acinetobacter spp.,Meropenem,1546,1205,77.943078913,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,IDN,Indonesia,Bloodstream,Acinetobacter spp.,Meropenem,302,184,60.927152318,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,MMR,Myanmar,Bloodstream,Acinetobacter spp.,Meropenem,21,7,33.333333333,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,NPL,Nepal,Bloodstream,Acinetobacter spp.,Meropenem,141,55,39.007092199,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,LKA,Sri Lanka,Bloodstream,Acinetobacter spp.,Meropenem,49,27,55.102040816,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2020,THA,Thailand,Bloodstream,Acinetobacter spp.,Meropenem,779,431,55.327342747,1784926971312_Resistance_to_antibiotics_in_2020_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,IND,India,Bloodstream,Acinetobacter spp.,Imipenem,7900,5227,66.164556962,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,IDN,Indonesia,Bloodstream,Acinetobacter spp.,Imipenem,530,311,58.679245283,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,MMR,Myanmar,Bloodstream,Acinetobacter spp.,Imipenem,10,8,80,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,NPL,Nepal,Bloodstream,Acinetobacter spp.,Imipenem,205,125,60.975609756,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,LKA,Sri Lanka,Bloodstream,Acinetobacter spp.,Imipenem,60,32,53.333333333,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,THA,Thailand,Bloodstream,Acinetobacter spp.,Imipenem,1121,638,56.913470116,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,TLS,Timor-Leste,Bloodstream,Acinetobacter spp.,Imipenem,23,9,39.130434783,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,IND,India,Bloodstream,Acinetobacter spp.,Meropenem,5109,3405,66.647093365,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,IDN,Indonesia,Bloodstream,Acinetobacter spp.,Meropenem,1078,648,60.111317254,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,NPL,Nepal,Bloodstream,Acinetobacter spp.,Meropenem,256,149,58.203125,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,LKA,Sri Lanka,Bloodstream,Acinetobacter spp.,Meropenem,73,43,58.904109589,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,THA,Thailand,Bloodstream,Acinetobacter spp.,Meropenem,1127,652,57.8527063,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2022,TLS,Timor-Leste,Bloodstream,Acinetobacter spp.,Meropenem,23,9,39.130434783,1784926971312_Resistance_to_antibiotics_in_2022_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,BGD,Bangladesh,Bloodstream,Acinetobacter spp.,Imipenem,30,30,100,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,BTN,Bhutan,Bloodstream,Acinetobacter spp.,Imipenem,10,9,90,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,IND,India,Bloodstream,Acinetobacter spp.,Imipenem,9946,7102,71.405590187,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,IDN,Indonesia,Bloodstream,Acinetobacter spp.,Imipenem,848,554,65.330188679,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,MDV,Maldives,Bloodstream,Acinetobacter spp.,Imipenem,12,3,25,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,MMR,Myanmar,Bloodstream,Acinetobacter spp.,Imipenem,12,4,33.333333333,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,NPL,Nepal,Bloodstream,Acinetobacter spp.,Imipenem,273,142,52.014652015,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,LKA,Sri Lanka,Bloodstream,Acinetobacter spp.,Imipenem,55,41,74.545454545,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,THA,Thailand,Bloodstream,Acinetobacter spp.,Imipenem,2078,1357,65.303176131,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,BGD,Bangladesh,Bloodstream,Acinetobacter spp.,Meropenem,63,52,82.53968254,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,BTN,Bhutan,Bloodstream,Acinetobacter spp.,Meropenem,16,14,87.5,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,IND,India,Bloodstream,Acinetobacter spp.,Meropenem,7827,5394,68.915293216,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,IDN,Indonesia,Bloodstream,Acinetobacter spp.,Meropenem,1706,1000,58.616647128,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,MDV,Maldives,Bloodstream,Acinetobacter spp.,Meropenem,12,3,25,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,NPL,Nepal,Bloodstream,Acinetobacter spp.,Meropenem,451,212,47.006651885,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,LKA,Sri Lanka,Bloodstream,Acinetobacter spp.,Meropenem,66,47,71.212121212,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,THA,Thailand,Bloodstream,Acinetobacter spp.,Meropenem,2095,1362,65.011933174,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+South-East Asia Region,2023,TLS,Timor-Leste,Bloodstream,Acinetobacter spp.,Meropenem,17,6,35.294117647,1784926971311_Resistance_to_antibiotics_in_2023_South-East_Asia_Region-Bloodstream.csv
+Western Pacific Region,2020,AUS,Australia,Bloodstream,Acinetobacter spp.,Imipenem,17,0,0,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,JPN,Japan,Bloodstream,Acinetobacter spp.,Imipenem,1416,11,0.776836158,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,MYS,Malaysia,Bloodstream,Acinetobacter spp.,Imipenem,1641,831,50.639853748,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,PHL,Philippines,Bloodstream,Acinetobacter spp.,Imipenem,854,321,37.587822014,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Imipenem,217,156,71.889400922,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,SGP,Singapore,Bloodstream,Acinetobacter spp.,Imipenem,12,2,16.666666667,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,AUS,Australia,Bloodstream,Acinetobacter spp.,Meropenem,98,1,1.020408163,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Meropenem,134,104,77.611940299,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,KHM,Cambodia,Bloodstream,Acinetobacter spp.,Meropenem,424,93,21.933962264,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,JPN,Japan,Bloodstream,Acinetobacter spp.,Meropenem,1612,14,0.868486352,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,MYS,Malaysia,Bloodstream,Acinetobacter spp.,Meropenem,1609,826,51.336233686,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,PHL,Philippines,Bloodstream,Acinetobacter spp.,Meropenem,844,309,36.611374408,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Meropenem,217,156,71.889400922,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2020,SGP,Singapore,Bloodstream,Acinetobacter spp.,Meropenem,12,2,16.666666667,Resistance_to_antibiotics_in_2020_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,AUS,Australia,Bloodstream,Acinetobacter spp.,Imipenem,12,0,0,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Imipenem,66,52,78.787878788,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,JPN,Japan,Bloodstream,Acinetobacter spp.,Imipenem,1470,11,0.74829932,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,LAO,Lao People's Democratic Republic,Bloodstream,Acinetobacter spp.,Imipenem,12,10,83.333333333,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,MYS,Malaysia,Bloodstream,Acinetobacter spp.,Imipenem,2923,1670,57.13308245,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,PHL,Philippines,Bloodstream,Acinetobacter spp.,Imipenem,1152,585,50.78125,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Imipenem,265,204,76.981132075,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,SGP,Singapore,Bloodstream,Acinetobacter spp.,Imipenem,21,6,28.571428571,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,AUS,Australia,Bloodstream,Acinetobacter spp.,Meropenem,83,0,0,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Meropenem,81,62,76.543209877,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,JPN,Japan,Bloodstream,Acinetobacter spp.,Meropenem,1628,13,0.798525799,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,LAO,Lao People's Democratic Republic,Bloodstream,Acinetobacter spp.,Meropenem,12,8,66.666666667,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,MYS,Malaysia,Bloodstream,Acinetobacter spp.,Meropenem,2916,1733,59.430727023,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,PHL,Philippines,Bloodstream,Acinetobacter spp.,Meropenem,1110,567,51.081081081,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Meropenem,265,204,76.981132075,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2021,SGP,Singapore,Bloodstream,Acinetobacter spp.,Meropenem,49,18,36.734693878,Resistance_to_antibiotics_in_2021_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,AUS,Australia,Bloodstream,Acinetobacter spp.,Imipenem,16,0,0,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Imipenem,71,56,78.873239437,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,HKG,"China, Hong Kong SAR",Bloodstream,Acinetobacter spp.,Imipenem,221,146,66.063348416,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,JPN,Japan,Bloodstream,Acinetobacter spp.,Imipenem,1533,12,0.782778865,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,LAO,Lao People's Democratic Republic,Bloodstream,Acinetobacter spp.,Imipenem,39,11,28.205128205,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,PHL,Philippines,Bloodstream,Acinetobacter spp.,Imipenem,1197,513,42.857142857,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Imipenem,388,319,82.216494845,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,SGP,Singapore,Bloodstream,Acinetobacter spp.,Imipenem,24,6,25,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,AUS,Australia,Bloodstream,Acinetobacter spp.,Meropenem,106,2,1.886792453,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Meropenem,98,80,81.632653061,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,KHM,Cambodia,Bloodstream,Acinetobacter spp.,Meropenem,194,70,36.082474227,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,HKG,"China, Hong Kong SAR",Bloodstream,Acinetobacter spp.,Meropenem,195,134,68.717948718,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,JPN,Japan,Bloodstream,Acinetobacter spp.,Meropenem,1692,18,1.063829787,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,LAO,Lao People's Democratic Republic,Bloodstream,Acinetobacter spp.,Meropenem,53,13,24.528301887,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,PHL,Philippines,Bloodstream,Acinetobacter spp.,Meropenem,1202,504,41.930116473,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Meropenem,388,320,82.474226804,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2022,SGP,Singapore,Bloodstream,Acinetobacter spp.,Meropenem,70,22,31.428571429,Resistance_to_antibiotics_in_2022_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,AUS,Australia,Bloodstream,Acinetobacter spp.,Imipenem,13,0,0,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Imipenem,158,119,75.316455696,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,KHM,Cambodia,Bloodstream,Acinetobacter spp.,Imipenem,82,35,42.682926829,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,HKG,"China, Hong Kong SAR",Bloodstream,Acinetobacter spp.,Imipenem,223,126,56.502242152,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,JPN,Japan,Bloodstream,Acinetobacter spp.,Imipenem,1560,12,0.769230769,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,MYS,Malaysia,Bloodstream,Acinetobacter spp.,Imipenem,2657,1299,48.889725254,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,PHL,Philippines,Bloodstream,Acinetobacter spp.,Imipenem,1496,622,41.577540107,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Imipenem,394,305,77.411167513,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,AUS,Australia,Bloodstream,Acinetobacter spp.,Meropenem,125,1,0.8,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,BRN,Brunei Darussalam,Bloodstream,Acinetobacter spp.,Meropenem,159,120,75.471698113,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,KHM,Cambodia,Bloodstream,Acinetobacter spp.,Meropenem,329,101,30.699088146,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,HKG,"China, Hong Kong SAR",Bloodstream,Acinetobacter spp.,Meropenem,190,114,60,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,JPN,Japan,Bloodstream,Acinetobacter spp.,Meropenem,1754,16,0.912200684,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,LAO,Lao People's Democratic Republic,Bloodstream,Acinetobacter spp.,Meropenem,57,12,21.052631579,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,MYS,Malaysia,Bloodstream,Acinetobacter spp.,Meropenem,2640,1318,49.924242424,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,PHL,Philippines,Bloodstream,Acinetobacter spp.,Meropenem,1571,605,38.510502864,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,KOR,Republic of Korea,Bloodstream,Acinetobacter spp.,Meropenem,394,308,78.172588832,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
+Western Pacific Region,2023,SGP,Singapore,Bloodstream,Acinetobacter spp.,Meropenem,47,10,21.276595745,Resistance_to_antibiotics_in_2023_Western_Pacific_Region-Bloodstream.csv
