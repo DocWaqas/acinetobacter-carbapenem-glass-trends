@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Regional and Temporal Trends in Carbapenem Resistance Among Acinetobacter Bloodstream Isolates Reported to WHO GLASS, 2020–2023"
+
+message: >
+  If you use this repository, please cite it using the metadata below.
+
+type: software
+
+authors:
+  - family-names: "Farhat"
+    given-names: "Mohammad Waqas"
+    orcid: "https://orcid.org/0000-0002-8789-8794"
+
+repository-code: "https://github.com/DocWaqas/acinetobacter-carbapenem-glass-trendsV2"
+
+license: MIT
+
+keywords:
+  - antimicrobial resistance
+  - Acinetobacter
+  - carbapenem resistance
+  - WHO GLASS
+  - bloodstream infections
+  - surveillance
+  - epidemiology
+  - R
+
+abstract: >
+  Reproducible analytical workflow accompanying the study of regional and
+  temporal trends in carbapenem resistance among Acinetobacter bloodstream
+  isolates reported to the WHO Global Antimicrobial Resistance and Use
+  Surveillance System (GLASS) between 2020 and 2023.
+
+version: "1.0.0"
+date-released: "2026-08-01"
