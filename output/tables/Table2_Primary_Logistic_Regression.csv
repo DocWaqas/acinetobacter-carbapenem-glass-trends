@@ -1,0 +1,13 @@
+WHO Region,Antibiotic,Odds Ratio (OR) per Year,95% Confidence Interval,p-value,BH-adjusted p-value,Interpretation
+African Region,Meropenem,0.884,0.862–0.907,<0.001,<0.001,Significant annual decrease (11.6% lower odds of resistance per year)
+African Region,Imipenem,0.900,0.877–0.925,<0.001,<0.001,Significant annual decrease (10.0% lower odds of resistance per year)
+Eastern Mediterranean Region,Meropenem,0.894,0.863–0.925,<0.001,<0.001,Significant annual decrease (10.6% lower odds of resistance per year)
+Eastern Mediterranean Region,Imipenem,0.921,0.890–0.954,<0.001,<0.001,Significant annual decrease (7.9% lower odds of resistance per year)
+European Region,Meropenem,0.969,0.950–0.988,0.001,0.002,Significant annual decrease (3.1% lower odds of resistance per year)
+European Region,Imipenem,1.242,1.214–1.271,<0.001,<0.001,Significant annual increase (24.2% higher odds of resistance per year)
+Region of the Americas,Meropenem,0.563,0.538–0.590,<0.001,<0.001,Significant annual decrease (43.7% lower odds of resistance per year)
+Region of the Americas,Imipenem,0.569,0.542–0.598,<0.001,<0.001,Significant annual decrease (43.1% lower odds of resistance per year)
+South-East Asia Region,Meropenem,0.993,0.965–1.021,0.610,0.610,No significant temporal trend
+South-East Asia Region,Imipenem,1.058,1.028–1.088,<0.001,<0.001,Significant annual increase (5.8% higher odds of resistance per year)
+Western Pacific Region,Meropenem,1.012,0.989–1.037,0.314,0.342,No significant temporal trend
+Western Pacific Region,Imipenem,1.027,1.002–1.053,0.037,0.044,Significant annual increase (2.7% higher odds of resistance per year)
